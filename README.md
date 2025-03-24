@@ -34,7 +34,7 @@ Utilizar dados históricos de vendas (2023) para prever o total de vendas em jan
 - O modelo capturou padrões sazonais (ex.: picos de vendas em períodos específicos).  
 - **Previsão para jan/2024:** `R$ X.XXX ± Y%` (MAPE: Z%).  
 
-![Gráfico de Previsão](https://via.placeholder.com/600x400?text=Real+vs+Previsto) *(Exemplo de visualização)*  
+![Gráfico de Previsão](imagens/grafico1.png) *(Exemplo de visualização)*  
 
 ---  
 
@@ -45,7 +45,7 @@ Utilizar dados históricos de vendas (2023) para prever o total de vendas em jan
 ---  
 
 ## 🔗 Repositório  
-Acesse o código completo e dataset: [GitHub](https://github.com/seu-usuario/nome-do-repositorio)  
+Acesse o código completo e dataset: [GitHub](https://github.com/eddygordonn/Data_Science_Projeto_1)  
 
 ---  
 
